@@ -1,2 +1,2 @@
-# qr-code-component-main
- qr code componente
+# COMPONENTE QR CODE
+ PRÁTICA - Componente qr code
